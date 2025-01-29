@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDEU College</title>
+</head>
+
+<body>
+    <header>
+        <h1 style="color: darkcyan;">Welcome to PDEU College</h1>
+        <hr>
+        <p style="color: darkred;">Your Path to Excellence in Engineering & Technology</p>
+    </header>
+    
+    <h2 style="color: blue;">Our Branches</h2>
+    <ul>
+        <li>Petroleum Engineering</li>
+        <li>Civil Engineering</li>
+        <li>Mechanical Engineering</li>
+        <li>Electrical Engineering</li>
+        <li>Chemical Engineering</li>
+        <li>Computer Engineering</li>
+        <li>Information & Communication Technology</li>
+        <li>Electronics & Communication Engineering</li>
+        <li>Biotechnology</li>
+    </ul>
+    
+    <h2 style="color: green;">Specializations</h2>
+    <ul>
+        <li>Computational Data Science</li>
+        <li>Applied Machine Learning</li>
+        <li>Mathematics and Computing</li>
+        <li>Smart and Sustainable Infrastructure</li>
+        <li>Internet of Things</li>
+        <li>VLSI Design</li>
+        <li>Additive Manufacturing</li>
+        <li>Robotics</li>
+        <li>Sustainability Engineering</li>
+        <li>Coastal & Offshore Engineering</li>
+    </ul>
+    
+    <h2 style="color: darkorange;">About Us</h2><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDEU College</title>
+</head>
+
+<body>
+    <header>
+        <h1 style="color: darkcyan;">Welcome to PDEU College</h1>
+        <hr>
+        <p style="color: darkred;">Your Path to Excellence in Engineering & Technology</p>
+    </header>
+    
+    <h2 style="color: blue;">Our Branches</h2>
+    <ul>
+        <li>Petroleum Engineering</li>
+        <li>Civil Engineering</li>
+        <li>Mechanical Engineering</li>
+        <li>Electrical Engineering</li>
+        <li>Chemical Engineering</li>
+        <li>Computer Engineering</li>
+        <li>Information & Communication Technology</li>
+        <li>Electronics & Communication Engineering</li>
+        <li>Biotechnology</li>
+    </ul>
+    
+    <h2 style="color: green;">Specializations</h2>
+    <ul>
+        <li>Computational Data Science</li>
+        <li>Applied Machine Learning</li>
+        <li>Mathematics and Computing</li>
+        <li>Smart and Sustainable Infrastructure</li>
+        <li>Internet of Things</li>
+        <li>VLSI Design</li>
+        <li>Additive Manufacturing</li>
+        <li>Robotics</li>
+        <li>Sustainability Engineering</li>
+        <li>Coastal & Offshore Engineering</li>
+    </ul>
+    
+    <h2 style="color: darkorange;">About Us</h2>
+    <p>
+        PDEU was established as a Petroleum University in 2007 with a focus on fossil fuels and later emerged as India's only energy university in 2021, dedicated to energy education and research. Today, the university has marked its presence as a renowned institution with noteworthy national and international visibility. PDEU is aggressively contributing towards the Nation's AatmaNirbhar Bharat Abhiyan.
+    </p>
+    
+    <h2 style="color: purple;">Academics</h2>
+    <p>
+        Study at the most vibrant and diverse campus in Gujarat with opportunities for experience-based learning. The university’s infrastructure focuses on the power of interdisciplinary research.
+    </p>
+    
+    <h2 style="color: red;">Contact Us</h2>
+    <p><strong>Address:</strong> PDEU College, Knowledge Corridor, Raisan Village, Gandhinagar, Gujarat, India</p>
+    <p><strong>Email:</strong> con@pdeu.edu.in</p>
+    <p><strong>Phone:</strong> +91-79-2226000</p>
+    <p><strong>Website:</strong> <a href="https://pdeu.ac.in/" target="_blank" style="color: darkblue;">Visit Our Website</a></p>
+</body>
+
+</html>
+
+    <p>
+        PDEU was established as a Petroleum University in 2007 with a focus on fossil fuels and later emerged as India's only energy university in 2021, dedicated to energy education and research. Today, the university has marked its presence as a renowned institution with noteworthy national and international visibility. PDEU is aggressively contributing towards the Nation's AatmaNirbhar Bharat Abhiyan.
+    </p>
+    
+    <h2 style="color: purple;">Academics</h2>
+    <p>
+        Study at the most vibrant and diverse campus in Gujarat with opportunities for experience-based learning. The university’s infrastructure focuses on the power of interdisciplinary research.
+    </p>
+    
+    <h2 style="color: red;">Contact Us</h2>
+    <p><strong>Address:</strong> PDEU College, Knowledge Corridor, Raisan Village, Gandhinagar, Gujarat, India</p>
+    <p><strong>Email:</strong> con@pdeu.edu.in</p>
+    <p><strong>Phone:</strong> +91-79-2226000</p>
+    <p><strong>Website:</strong> <a href="https://pdeu.ac.in/" target="_blank" style="color: darkblue;">Visit Our Website</a></p>
+</body>
+
+</html>
