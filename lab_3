@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Table</title>
+</head>
+<body>
+    <h1>Pandit Deendayal Energy University</h1>
+    <h2>School of Technology</h2>												
+    <h3>B.Tech - Information and Communication Technology</h3>												
+    <h4>Semester : 6 (1)</h4>												
+
+    <table border="1">
+        <tr>
+            <td>Day</td>
+            <td>8:00 to 8:55</td>
+            <td>9:00 to 9:55</td>
+            <td>10:00 to 10:55</td>
+            <td>10:55 to 11:10</td>
+            <td>11:10 to 12:05</td>
+            <td>12:10 to 1:05</td>
+            <td>1:10 to 2:05</td>
+            <td>2:10 to 3:05</td>
+            <td>3:10 to 4:05</td>
+            <td>4:05 to 4:15</td>
+            <td>4:15 to 5:10</td>
+            <td>5:15 to 6:10</td>
+            <td>6:10 to 7:05</td>
+        </tr>
+        <tr>
+            <th>Monday</th>
+            <td rowspan="2">Slots for minors</td>
+            <td>H1H2H3(20IC316T) F-404, MORO-L</td>
+            <td>H1H2H3(20IC306T) F-404, NSR-L</td>
+            <td rowspan="5">Break</td>
+            <td colspan="2">H1H2H3(20IC313P) E214, JRS-P H1H2H3(20IC405P) F-204, SASA-P</td>
+            <td>Lunch break</td>
+            <td colspan="2">H1H2H3(20HS301P) C006, CHSH-P</td>
+            <td rowspan="5">Break</td>
+            <td>H1H2H3(OE-6B) E-303, MAYA-L</td>
+            <td>H1H2H3(OE-6B) E-303, MAYA-L</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Tuesday</th>
+            <td>H1H2H3(20IC313T) F-404, JRS-L H1H2H3(20IC405T) E202, RABH-L</td>
+            <td>H1H2H3(22CDC006) E-201, CDCT-L</td>
+            <td>H1H2H3(20IC304T) E-202, ABJO-L</td>
+            <td>Lunch break</td>
+            <td>H1H2H3(20IC305T) E-202, SASA-L</td>
+            <td colspan="2">H2(20IC306P) E112-113, PRAB-P H3(20IC306P) E112-113, DESA-P H1(20IC306P) E112-113, NSR-P</td>
+            <td>H1H2H3(OE-6B) E-303, MAYA-L</td>
+        </tr>
+        <tr>
+            <th>Wednesday</th>
+            <td></td>
+            <td>H1H2H3(20IC305T) F-404, SASA-L</td>
+            <td>H1H2H3(20IC306T) F-404, NSR-L</td>
+            <td colspan="2">H1 (23IC301P) E212, SHIV-P H2 (23IC301P) E212, KAGA-P H3 (20IC304P) F-204, GUTH-P</td>
+            <td>Lunch break</td>
+            <td></td>
+            <td>H1H2H3 (20IC316T) F-404, MORO-L</td>
+            <td>H1H2H3 (20IF201T) OE Room, ICTV1-L</td>
+            <td>H1H2H3 (23IC301T) E204, SHIV-L</td>
+            <td>H1H2H3 (20IC313T) E201, JRS-L H1H2H3 (20IC405T) E202, RABH-L</td>
+        </tr>
+        <tr>
+            <th>Thursday</th>
+            <td rowspan="2">Slots for Minors</td>
+            <td colspan="2">H3 (23IC301P) E212, AYMA-P H2 (20IC316P) E214, MORO-P H1 (20IC304P) F-204, GUTH-P</td>
+            <td>H1H2H3 (20IC306T) F-404, NSR-L</td>
+            <td>Lunch break</td>
+            <td>H1H2H3 (20IC304T) E202, ABJO-L</td>
+            <td colspan="2">H1H2H3 (20IF201P) OE Room, ICTV1-P</td>
+            <td>H1H2H3 (20IF201T) OE Room, ICTV1-L</td>
+            <td>H1H2H3 (23IC301T) E204, SHIV-L</td>
+        </tr>
+        <tr>
+            <th>Friday</th>
+            <td colspan="2">H1 (20IC316P) E112-113, MSK-P H3 (20IC316P) E112-113, MORO-P H2 (20IC304P) F-204, ABJO-P</td>
+            <td>H1H2H3 (20IC305T) E202, SASA-L</td>
+            <td>Lunch break</td>
+            <td>H1H2H3 (20IC304T) E202, ABJO-L</td>
+            <td colspan="2">H2 (20IC305P) E112-113, SASA-P H1 (20IC305P) E112-113, SOPA-P H3 (20IC305P) E112-113, PST-P</td>
+        </tr>
+    </table>
+</body>
+</html>
